@@ -12,11 +12,11 @@ Two production-style SQL Server projects built end to end in T-SQL: a normalised
 
 ```
 .
-├── 01-online-bank-db/              # OLTP design, implementation & management
+├── online-bank-db/              # OLTP design, implementation & management
 │   ├── sql/online_bank_db.sql      # Full build script: schema, data, objects, tests
 │   ├── diagrams/erd.png            # Entity-relationship diagram
 │   └── backup/OnlineBankDB.bak     # SQL Server backup (restore to reproduce)
-├── 02-prescriptions-db/            # Analytics on NHS prescribing data
+├── prescriptions-db/            # Analytics on NHS prescribing data
 │   ├── data/                       # Source CSV files (NHS Bolton extract)
 │   │   ├── Medical_Practice.csv
 │   │   ├── Drugs.csv
