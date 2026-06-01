@@ -1,0 +1,14 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Temporary LibreOffice/Office lock files
+~$*
+*.tmp
+
+# Local SQL Server transaction logs / data files (keep .bak backups only)
+*.ldf
+*.mdf
