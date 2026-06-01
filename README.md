@@ -38,7 +38,7 @@ Two production-style SQL Server projects built end to end in T-SQL: a normalised
 
 A transactional database for a retail online bank, designed from a business requirements specification and normalised to Third Normal Form (3NF). The schema manages customers, accounts, transactions, overdue fees, and repayments, and is built to keep balances and transaction records accurate under high daily transaction volume.
 
-![ERD](01-online-bank-db/diagrams/erd.png)
+![ERD](online-bank-db/diagrams/erd.png)
 
 **Design**
 
@@ -64,7 +64,7 @@ A transactional database for a retail online bank, designed from a business requ
 
 Querying and analysis over a real NHS prescribing dataset for the Bolton region, framed around the needs of a pharmaceutical company that wants to understand which medications are prescribed, by which organisations, and in what quantities.
 
-![Schema](02-prescriptions-db/diagrams/schema.png)
+![Schema](prescriptions-db/diagrams/schema.png)
 
 ### Data
 
