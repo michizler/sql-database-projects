@@ -4,7 +4,7 @@ Two production-style SQL Server projects built end to end in T-SQL: a normalised
 
 **Stack:** Microsoft SQL Server, T-SQL, SQL Server Management Studio (SSMS)
 
-> For the business problem behind each project and how the solution addresses it, see [PROJECT_BRIEF.md](PROJECT_BRIEF.md).
+> For the business problem behind each project and how the solution addresses it, see [PROJECT_BRIEF.md](project_brief.md).
 
 ---
 
